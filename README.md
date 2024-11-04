@@ -1,3 +1,5 @@
+# 50_frontend_projects-6_scroll_animation
+
 Frontend practicing projects 6/50. 
 
 [DEMO](https://yswnqc.github.io/50_frontend_projects-6_scroll_animation/) here.
