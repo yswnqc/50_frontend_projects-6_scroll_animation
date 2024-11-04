@@ -4,12 +4,13 @@
 
 [DEMO](https://yswnqc.github.io/50_frontend_projects-6_scroll_animation/) here.
 
-### Make a little difference. 
+### Make a little difference
 - Infinite scroll down
 - Remove items when scrolling up
 
 ### Need improve
 - Initial must have 5 items
+- Buttons linking to other projects on mobile version will be overlapped
 
 From [50projects50days](https://50projects50days.com).
 
