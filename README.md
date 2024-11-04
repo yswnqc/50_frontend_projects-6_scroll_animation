@@ -1,10 +1,15 @@
 # 50_frontend_projects-6_scroll_animation
 
-Frontend practicing projects 6/50. 
+ 6/50 Frontend practicing projects [Collection](https://github.com/yswnqc/50_frontend_projects-collection).
 
 [DEMO](https://yswnqc.github.io/50_frontend_projects-6_scroll_animation/) here.
 
-Make a little difference.
+### Make a little difference. 
+- Infinite scroll down
+- Remove items when scrolling up
+
+### Need improve
+- Initial must have 5 items
 
 From [50projects50days](https://50projects50days.com).
 
