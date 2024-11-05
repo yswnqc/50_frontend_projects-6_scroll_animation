@@ -4,7 +4,7 @@
 
 [DEMO](https://yswnqc.github.io/50_frontend_projects-6_scroll_animation/) here.
 
-### Make a little difference.
+### Make a little difference
 
 - Infinite scroll down
 - Remove items when scrolling up
